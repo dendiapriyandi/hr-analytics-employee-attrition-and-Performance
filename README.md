@@ -19,7 +19,7 @@ The project consists of three main phases:
 ## Table of Content
 
 1. [Project Structure](#project-structure)  
-2. [Data Preprocessing & EDA](#data-preprocessing--eda)  
+2. [Data Preprocessing and EDA](#data-preprocessing-and-eda)  
 3. [Clustering](#clustering)  
 4. [Model Development](#model-development)  
 5. [Performance Metrics](#performance-metrics)  
