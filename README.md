@@ -18,14 +18,14 @@ The project consists of three main phases:
     3. Modeling: Developing predictive models to forecast employee attrition with optimized accuracy.
 ## Table of Content
 
-1. Project Structure
-2. Data Preprocessing & EDA
-3. Clustering
-4. Model Development
-5. Performance Metrics
-6. Results & Insights
-7. Conclusion
-8. Future Improvements
+1. [Project Structure](#project-structure)  
+2. [Data Preprocessing & EDA](#data-preprocessing--eda)  
+3. [Clustering](#clustering)  
+4. [Model Development](#model-development)  
+5. [Performance Metrics](#performance-metrics)  
+6. [Results & Insights](#results--insights)  
+7. [Conclusion](#conclusion)  
+8. [Future Improvements](#future-improvements)
 ## Project Structure
 
 The project is divided into three notebooks:
